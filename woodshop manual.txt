@@ -1,5 +1,0 @@
-Open a terminal or command prompt.
-
-Navigate to the folder where main.py and price_calculation.py are saved
-
-and run the program with this command python main.py
